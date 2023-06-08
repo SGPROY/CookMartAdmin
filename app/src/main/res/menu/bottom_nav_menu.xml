@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_nav_codPostal"
+        android:icon="@drawable/vector_location_round"
+        android:title="Add codPostal" />
+    <item
+        android:id="@+id/bottom_nav_products"
+        android:icon="@drawable/vector_round_orders"
+        android:title="Products" />
+    <item
+        android:id="@+id/bottom_nav_home"
+        android:icon="@drawable/vector_home_round"
+        android:title="Home" />
+    <item
+        android:id="@+id/bottom_nav_orders"
+        android:icon="@drawable/vector_money"
+        android:title="Orders" />
+    <item
+        android:id="@+id/bottom_nav_settings"
+        android:icon="@drawable/vector_settings"
+        android:title="Settings" />
+</menu>

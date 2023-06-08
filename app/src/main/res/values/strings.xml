@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CookMart Admin</string>
+
+
+    <string name="navigation_drawer_open">abrir</string>
+    <string name="navigation_drawer_close">cerrar</string>
+    <string name="Hola_Mundo_fragment">Hola Mundo</string>
+    <string name="meats_fish"><![CDATA[Meats & Fish]]></string>
+    <string name="enCamino">En camino</string>
+    <string name="entregado">Entregado</string>
+    <string name="todos">Todos</string>
+    <string name="enviado">Enviado</string>
+    <string name="preparando">Preparando</string>
+    <string name="PAGOEFECTIVO">Pago en la entrega</string>
+    <string name="PAGOONLINE">Pagado por internet</string>
+    <string name="codPostal">codPostal</string>
+    <string name="availbale">Activo</string>
+    <string name="NOT_AVAILBLE">No Activo</string>
+
+</resources>
